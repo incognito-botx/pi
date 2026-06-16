@@ -5,6 +5,7 @@
 </p>
 <p align="center">
   <a href="https://discord.com/invite/3cU7Bz4UPx"><img alt="Discord" src="https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://app.codspeed.io/incognito-botx/pi?utm_source=badge"><img src="https://img.shields.io/endpoint?url=https://codspeed.io/badge.json" alt="CodSpeed"/></a>
 </p>
 <p align="center">
   <a href="https://pi.dev">pi.dev</a> domain graciously donated by
